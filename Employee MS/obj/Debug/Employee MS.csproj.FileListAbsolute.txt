@@ -1,0 +1,18 @@
+C:\Users\so_no\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.exe.config
+C:\Users\so_no\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.exe
+C:\Users\so_no\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.pdb
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.csproj.AssemblyReference.cache
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Employee.resources
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Form1.resources
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Home.resources
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Properties.Resources.resources
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.Salaray.resources
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee_MS.View.resources
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.csproj.GenerateResource.cache
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.csproj.CoreCompileInputs.cache
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.exe
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.pdb
+C:\Users\so_no\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.exe.manifest
+C:\Users\so_no\source\repos\Employee MS\Employee MS\bin\Debug\Employee MS.application
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.exe.manifest
+C:\Users\so_no\source\repos\Employee MS\Employee MS\obj\Debug\Employee MS.application
